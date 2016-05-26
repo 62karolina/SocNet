@@ -9,6 +9,7 @@
         android:supportsRtl="true"
         android:screenOrientation="portrait"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:permission="INTERNET"
         >
 
     <activity android:name=".Login">
